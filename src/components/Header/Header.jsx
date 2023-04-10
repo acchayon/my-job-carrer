@@ -23,7 +23,7 @@ const Header = () => {
                         <li><a>Blog</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case font-bold lg:text-2xl">CodeNext Career</a>
+                <a className="btn btn-ghost normal-case font-bold lg:text-3xl">CodeNext Career</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
