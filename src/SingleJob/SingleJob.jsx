@@ -7,7 +7,7 @@ const SingleJob = ({ job }) => {
             <img className='w-2/12 mt-5 m-5 bg-gray-200' src={icon} alt="" /> 
             <div className="card-body mt-0">
                 <h2 className="card-title">{jobname}</h2>
-                <p>{availableJob} jobs avialable</p>
+                <p>{availableJob} jobs available</p>
             </div>
         </div>
     );

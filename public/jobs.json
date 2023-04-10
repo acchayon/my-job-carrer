@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "source": "Google LLC",
+        "company_logo": "https://i.ibb.co/B4prw79/google-1-1-1.png",
+        "job_title": "Technical Database Engineerr",
+        "company_name": "ABC Corporation",
+        "remote_or_onsite": "Remote",
+        "location": "San Francisco",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$120,000 - $140,000",
+        "job_description": "We are looking for a skilled software engineer to help us build and maintain our web applications.",
+        "job_responsibility": "- Develop and maintain web applications\n- Collaborate with cross-functional teams to identify and solve problems\n- Participate in code reviews and design discussions",
+        "educational_requirements": "Bachelor's degree in Computer Science, Engineering, or related field",
+        "experiences": "3+ years of experience in software engineering",
+        "contact_information": {
+            "phone": "555-555-1234",
+            "email": "jobs@abccorporation.com"
+        }
+    },
+    {
+        "id": 2,
+        "source": "Netflix",
+        "company_logo": "https://i.ibb.co/SmDCByk/netflix-4-1.png",
+        "job_title": "Senior Product Designer",
+        "company_name": "Software Engineer",
+        "remote_or_onsite": "Onsite",
+        "location": "New York City",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$100,000 - $120,000",
+        "job_description": "We are seeking a creative and results-driven Marketing Manager to lead our marketing efforts.",
+        "job_responsibility": "- Develop and execute marketing campaigns\n- Analyze data to measure campaign performance and identify areas for improvement\n- Manage external vendors and agencies",
+        "educational_requirements": "Bachelor's degree in Marketing, Business, or related field",
+        "experiences": "5+ years of experience in marketing",
+        "contact_information": {
+            "phone": "555-555-5678",
+            "email": "jobs@xyzcorporation.com"
+        }
+    },
+    {
+        "id": 3,
+        "source": "Tesla",
+        "company_logo": "https://i.ibb.co/1qnjFXK/tesla-9-1.png",
+        "job_title": "Product Designer",
+        "company_name": "123 Corporation",
+        "remote_or_onsite": "Onsite",
+        "location": "Chicago",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$90,000 - $110,000",
+        "job_description": "We are looking for a talented and creative Product Designer to help us build beautiful and intuitive products.",
+        "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
+        "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in product design",
+        "contact_information": {
+            "phone": "555-555-9012",
+            "email": "jobs@123corporation.com"
+        }
+    },
+    {
+        "id": 4,
+        "source": "Google LLC",
+        "company_logo": "https://i.ibb.co/t8N3JTy/Group-10021.png",
+        "job_title": "Web Designer",
+        "company_name": "New Corporation",
+        "remote_or_onsite": "Onsite",
+        "location": "Chicago",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$90,000 - $110,000",
+        "job_description": "We are looking for a talented and creative Product Designer to help us build beautiful and intuitive products.",
+        "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
+        "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in product design",
+        "contact_information": {
+            "phone": "555-465-9012",
+            "email": "jobs@newcorporation.com"
+        }
+    },
+    {
+        "id": 5,
+        "source": "Amazon",
+        "company_logo": "https://i.ibb.co/SmDCByk/netflix-4-1.png",
+        "job_title": "Graphics Designer",
+        "company_name": "Graph Tech",
+        "remote_or_onsite": "Onsite",
+        "location": "Chicago",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$90,000 - $110,000",
+        "job_description": "We are looking for a talented and creative Product Designer to help us build beautiful and intuitive products.",
+        "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
+        "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in product design",
+        "contact_information": {
+            "phone": "555-465-9012",
+            "email": "jobs@newcorporation.com"
+        }
+    },
+    {
+        "id": 6,
+        "source": "Netflix",
+        "company_logo": "https://i.ibb.co/B4prw79/google-1-1-1.png",
+        "job_title": "Marketing Manager",
+        "company_name": "Digital Tech",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "We are looking for a talented and creative Product Designer to help us build beautiful and intuitive products.",
+        "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
+        "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in product design",
+        "contact_information": {
+            "phone": "325-465-9012",
+            "email": "jobs@viewcorporation.com"
+        }
+    },
+    {
+        "id": 7,
+        "source": "Apple +",
+        "company_logo": "https://i.ibb.co/1qnjFXK/tesla-9-1.png",
+        "job_title": "Production Designer",
+        "company_name": "Self Tech",
+        "remote_or_onsite": "Onsite",
+        "location": "Khulna",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$70,000 - $110,000",
+        "job_description": "We are looking for a talented and creative Product Designer to help us build beautiful and intuitive products.",
+        "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
+        "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in product design",
+        "contact_information": {
+            "phone": "555-495-9012",
+            "email": "jobs@aeldftech.com"
+        }
+    },
+    {
+        "id": 8,
+        "source": "YouTUbe",
+        "company_logo": "https://i.ibb.co/B4prw79/google-1-1-1.png",
+        "job_title": "Database Manager",
+        "company_name": "DATASoft",
+        "remote_or_onsite": "Onsite",
+        "location": "Rajshahi",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$40,000 - $80,000",
+        "job_description": "We are looking for a talented and creative Product Designer to help us build beautiful and intuitive products.",
+        "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
+        "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in product design",
+        "contact_information": {
+            "phone": "555-465-1112",
+            "email": "jobs@Crporation.com"
+        }
+    },
+    {
+        "id": 9,
+        "source": "Google LLC",
+        "company_logo": "https://i.ibb.co/t8N3JTy/Group-10021.png",
+        "job_title": "Software Designer",
+        "company_name": "Soft Company ",
+        "remote_or_onsite": "Onsite",
+        "location": "Pabna",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$30,000 - $60,000",
+        "job_description": "We are looking for a talented and creative Product Designer to help us build beautiful and intuitive products.",
+        "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
+        "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in product design",
+        "contact_information": {
+            "phone": "905-465-9012",
+            "email": "jobs@softnew.com"
+        }
+    },
+    {
+        "id": 10,
+        "source": "Tesla",
+        "company_logo": "https://i.ibb.co/B4prw79/google-1-1-1.png",
+        "job_title": "Social Designer",
+        "company_name": "Social Tech",
+        "remote_or_onsite": "Onsite",
+        "location": "Khulna",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$67,000 - $89,000",
+        "job_description": "We are looking for a talented and creative Product Designer to help us build beautiful and intuitive products.",
+        "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
+        "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
+        "experiences": "3+ years of experience in product design",
+        "contact_information": {
+            "phone": "555-465-9652",
+            "email": "jobs@socailManage.com"
+        }
+    }
+    
+
+]
