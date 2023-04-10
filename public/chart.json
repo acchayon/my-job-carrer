@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Assignment 1",
+         "marks": 60,
+         "bgColor": "blue"
+    },
+    {
+        "id": 2,
+        "name": "Assignment 2",
+         "marks": 58,
+         "bgColor": "orange"
+    },
+    {
+        "id": 3,
+        "name": "Assignment 3",
+         "marks": 57,
+         "bgColor": "red"
+    },
+    {
+        "id": 4,
+        "name": "Assignment 4",
+         "marks": 60,
+         "bgColor": "yellow"
+    },
+    {
+        "id": 5,
+        "name": "Assignment 5",
+         "marks": 60,
+         "bgColor": "lightblue"
+    },
+    {
+        "id": 6,
+        "name": "Assignment 6",
+         "marks": 52,
+         "bgColor": "green"
+    },
+    {
+        "id": 7,
+        "name": "Assignment 7",
+         "marks": 60,
+         "bgColor": "purple"
+    }
+]
