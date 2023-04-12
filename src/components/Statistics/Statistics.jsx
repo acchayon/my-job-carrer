@@ -7,14 +7,21 @@ const Statistics = () => {
     const chart = useLoaderData();
     console.log(chart)
 
+    const COLORS = ['red', 'blue', 'gray', 'orange', 'purple', 'green', 'yellow', 'lightblue'];
+    
+
     return (
-            <div>
-                <h1 className='text-3xl font-bold text-center'>There is a pie chart about my assignment marks</h1>
-                <PieChart className='w-10/12 mx-auto' width={500} height={500}>
-                <Pie  data={chart} cx={200} cy={200} outerRadius={80} fill="blue" dataKey="marks"></Pie>
+        <div>
+            <h1 className='text-3xl font-bold text-center'>There is a pie chart about my assignment marks</h1>
+            <PieChart className='w-10/12 mx-auto' width={500} height={500}>
+                <Pie data={chart} cx={200} cy={200} outerRadius={80} fill="bgColor" dataKey="marks">
+                        {chart.map((entry, index) => (
+              <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+            ))}
+                    </Pie>
                 <Tooltip></Tooltip>
             </PieChart>
-            </div>
+        </div>
     );
 };
 

@@ -14,14 +14,14 @@ const JobDetail = () => {
     }, [])
     console.log(job)
     return (
-        <div className='grid grid-cols-2 mt-20 items-center justify-evenly'>
-            <div>
-                <p><span className='text-lg font-semibold'>Job description: </span>{job.job_description}</p>
-                <p><span className='text-lg font-semibold'>Job Responsibility: </span>{job.job_responsibility}</p>
-                <p><span className='text-lg font-semibold'>Educational Requirments: </span>{job.educational_requirements}</p>
-                <p><span className='text-lg font-semibold'>Experience: </span>{job.experiences}</p>
+        <div className='grid grid-cols-2 gap-5 mt-20 px-8 items-center justify-evenly'>
+            <div className='bg-zinc-50 p-5 rounded-xl'>
+                <p className='my-4'><span className='text-lg font-semibold'>Job description: </span>{job.job_description}</p>
+                <p className='my-4'><span className='text-lg font-semibold'>Job Responsibility: </span>{job.job_responsibility}</p>
+                <p className='my-4'><span className='text-lg font-semibold'>Educational Requirments: </span>{job.educational_requirements}</p>
+                <p className='my-4'><span className='text-lg font-semibold'>Experience: </span>{job.experiences}</p>
             </div>
-            <div className='bg-slate-200 w-3/5 p-6'>
+            <div className='bg-slate-100 border rounded-xl w-3/5 p-6'>
                 <h5 className='text-xl font-bold'>Job details</h5>
                 <p className='flex items-center mt-5'><CurrencyDollarIcon className="h-6 w-6 text-cyan-500" />
                     <span className='text-lg font-semibold'>Salary: &nbsp; &nbsp;  </span>{job.salary} (per month)  
@@ -39,6 +39,7 @@ const JobDetail = () => {
                 <p className='flex items-center'><MapPinIcon className="h-6 w-6 text-cyan-500" />
                     <span className='text-lg font-semibold'>Location: &nbsp; &nbsp;  </span>{job.location}  
                 </p>
+                <button className='btn btn-primary w-full mt-3'>Apply Now</button>
             </div>
 
         </div>
