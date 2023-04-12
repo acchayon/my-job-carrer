@@ -13,10 +13,8 @@
         "job_responsibility": "- Develop and maintain web applications\n- Collaborate with cross-functional teams to identify and solve problems\n- Participate in code reviews and design discussions",
         "educational_requirements": "Bachelor's degree in Computer Science, Engineering, or related field",
         "experiences": "3+ years of experience in software engineering",
-        "contact_information": {
-            "phone": "555-555-1234",
-            "email": "jobs@abccorporation.com"
-        }
+        "phone": "555-235-1234",
+        "email": "jobs@abccorporation.com"
     },
     {
         "id": 2,
@@ -32,10 +30,8 @@
         "job_responsibility": "- Develop and execute marketing campaigns\n- Analyze data to measure campaign performance and identify areas for improvement\n- Manage external vendors and agencies",
         "educational_requirements": "Bachelor's degree in Marketing, Business, or related field",
         "experiences": "5+ years of experience in marketing",
-        "contact_information": {
-            "phone": "555-555-5678",
-            "email": "jobs@xyzcorporation.com"
-        }
+        "phone": "555-535-5678",
+        "email": "jobs@xyzcorporation.com"
     },
     {
         "id": 3,
@@ -43,7 +39,7 @@
         "company_logo": "https://i.ibb.co/1qnjFXK/tesla-9-1.png",
         "job_title": "Product Designer",
         "company_name": "123 Corporation",
-        "remote_or_onsite": "Remote",
+        "remote_or_onsite": "Part Timez",
         "location": "Chicago",
         "fulltime_or_parttime": "Full-time",
         "salary": "$90,000 - $110,000",
@@ -51,10 +47,8 @@
         "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
         "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
         "experiences": "3+ years of experience in product design",
-        "contact_information": {
-            "phone": "555-555-9012",
-            "email": "jobs@123corporation.com"
-        }
+        "phone": "555-595-9012",
+        "email": "jobs@123corporation.com"
     },
     {
         "id": 4,
@@ -70,10 +64,8 @@
         "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
         "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
         "experiences": "3+ years of experience in product design",
-        "contact_information": {
-            "phone": "555-465-9012",
-            "email": "jobs@newcorporation.com"
-        }
+        "phone": "555-465-9012",
+        "email": "jobs@newcorporation.com"
     },
     {
         "id": 5,
@@ -89,10 +81,8 @@
         "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
         "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
         "experiences": "3+ years of experience in product design",
-        "contact_information": {
-            "phone": "555-465-9012",
-            "email": "jobs@newcorporation.com"
-        }
+        "phone": "555-465-9012",
+        "email": "jobs@newcorporation.com"
     },
     {
         "id": 6,
@@ -108,10 +98,8 @@
         "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
         "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
         "experiences": "3+ years of experience in product design",
-        "contact_information": {
-            "phone": "325-465-9012",
-            "email": "jobs@viewcorporation.com"
-        }
+        "phone": "325-465-9012",
+        "email": "jobs@viewcorporation.com"
     },
     {
         "id": 7,
@@ -127,10 +115,8 @@
         "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
         "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
         "experiences": "3+ years of experience in product design",
-        "contact_information": {
-            "phone": "555-495-9012",
-            "email": "jobs@aeldftech.com"
-        }
+        "phone": "555-495-9012",
+        "email": "jobs@aeldftech.com"
     },
     {
         "id": 8,
@@ -138,7 +124,7 @@
         "company_logo": "https://i.ibb.co/B4prw79/google-1-1-1.png",
         "job_title": "Database Manager",
         "company_name": "DATASoft",
-        "remote_or_onsite": "Remote",
+        "remote_or_onsite": "Part Time",
         "location": "Rajshahi",
         "fulltime_or_parttime": "Full-time",
         "salary": "$40,000 - $80,000",
@@ -146,10 +132,8 @@
         "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
         "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
         "experiences": "3+ years of experience in product design",
-        "contact_information": {
-            "phone": "555-465-1112",
-            "email": "jobs@Crporation.com"
-        }
+        "phone": "555-465-1112",
+        "email": "jobs@Crporation.com"
     },
     {
         "id": 9,
@@ -165,10 +149,8 @@
         "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
         "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
         "experiences": "3+ years of experience in product design",
-        "contact_information": {
-            "phone": "905-465-9012",
-            "email": "jobs@softnew.com"
-        }
+        "phone": "905-465-9012",
+        "email": "jobs@softnew.com"
     },
     {
         "id": 10,
@@ -184,11 +166,7 @@
         "job_responsibility": "- Collaborate with product and engineering teams to develop design concepts\n- Create wireframes, mockups, and prototypes\n- Conduct user research and usability testing",
         "educational_requirements": "Bachelor's or Master's degree in Design, HCI, or related field",
         "experiences": "3+ years of experience in product design",
-        "contact_information": {
-            "phone": "555-465-9652",
-            "email": "jobs@socailManage.com"
-        }
+        "phone": "555-465-9652",
+        "email": "jobs@socailManage.com"
     }
-    
-
 ]

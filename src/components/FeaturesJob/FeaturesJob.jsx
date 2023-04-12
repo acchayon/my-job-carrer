@@ -4,7 +4,6 @@ import Job from '../Job/Job';
 
 const FeaturesJob = () => {
     const jobs = useLoaderData();
-    console.log(jobs)
     return (
         <div className='mt-20 text-center'>
             <h1 className='text-4xl font-bold '>Featured Jobs</h1>

@@ -1,5 +1,6 @@
 import React from 'react';
 import { MapPinIcon, CurrencyDollarIcon } from '@heroicons/react/24/solid'
+import { Link } from 'react-router-dom';
 
 
 const Job = ({ job }) => {
@@ -14,7 +15,7 @@ const Job = ({ job }) => {
                 <div className='flex'>
                     <p className='lg:flex text-base'>
                         <MapPinIcon className="h-6 w-6 block text-cyan-500" />
-                        {location}
+                        Location: {location}
                         </p>
                         <p className='flex text-base'>
                         <CurrencyDollarIcon className="h-6 w-6 block text-cyan-500" />
@@ -22,7 +23,7 @@ const Job = ({ job }) => {
                         </p>
                 </div>
                 <div className="card-actions justify-end">
-                    <button className="btn btn-primary mx-0">View Details</button>
+                    <Link to={`/jobdetail/${id}`}><button className="btn btn-primary mx-0">View Details</button></Link>
                 </div>
             </div>
         </div>
