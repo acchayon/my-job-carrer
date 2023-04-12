@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useLoaderData, useParams } from 'react-router-dom';
+import { Link, useLoaderData, useParams } from 'react-router-dom';
 import { CurrencyDollarIcon, BriefcaseIcon, PhoneIcon, InboxStackIcon, MapPinIcon } from '@heroicons/react/24/solid'
 
 
@@ -12,7 +12,7 @@ const JobDetail = () => {
         const getJob = newJob.find(njob => njob.id == jobId)
         setJob(getJob);
     }, [])
-    console.log(job)
+
     return (
         <div className='grid grid-cols-2 gap-5 mt-20 px-8 items-center justify-evenly'>
             <div className='bg-zinc-50 p-5 rounded-xl'>
@@ -39,7 +39,7 @@ const JobDetail = () => {
                 <p className='flex items-center'><MapPinIcon className="h-6 w-6 text-cyan-500" />
                     <span className='text-lg font-semibold'>Location: &nbsp; &nbsp;  </span>{job.location}  
                 </p>
-                <button className='btn btn-primary w-full mt-3'>Apply Now</button>
+                <Link to={`/appliedjobs/${job.id}`}><button className='btn btn-primary w-full mt-3'>Apply Now</button></Link>
             </div>
 
         </div>

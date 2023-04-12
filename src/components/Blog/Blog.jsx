@@ -3,6 +3,9 @@ import React from 'react';
 const Blog = () => {
     return (
         <div>
+            <div className='text-center h-32 bg-slate-50'>
+                <h1 className='text-3xl '>Blogs</h1>
+            </div>
             <div tabIndex={0} className="collapse collapse-arrow w-3/4 bg-gray-50 mx-auto border border-base-300 rounded-box">
                 <div className="collapse-title text-xl font-medium">
                     1.  When should you use context API?

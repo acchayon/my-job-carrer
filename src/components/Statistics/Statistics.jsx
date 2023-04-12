@@ -12,6 +12,9 @@ const Statistics = () => {
 
     return (
         <div>
+            <div className='text-center h-32 bg-slate-50'>
+                <h1 className='text-3xl '>Statistics</h1>
+            </div>
             <h1 className='text-3xl font-bold text-center'>There is a pie chart about my assignment marks</h1>
             <PieChart className='w-10/12 mx-auto' width={500} height={500}>
                 <Pie data={chart} cx={200} cy={200} outerRadius={80} fill="bgColor" dataKey="marks">
